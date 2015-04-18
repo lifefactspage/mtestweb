@@ -3,7 +3,7 @@ body,div,dl,dt,dd,ul,ol,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,input,textarea,
     -webkit-animation-name: example; /* Chrome, Safari, Opera */
     -webkit-animation-duration: 10s; /* Chrome, Safari, Opera */
     animation-name: example;
-    animation-duration: 4s;
+    animation-duration: 3s;
 }
 
 /* Chrome, Safari, Opera */
